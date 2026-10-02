@@ -1,15 +1,15 @@
 {
   "app": "电视壳内置工具",
   "package": "com.tvinject.maker",
-  "versionCode": 33,
-  "versionName": "1.23",
-  "size": 2183829,
-  "sha256": "cf33217c64bc5c8e1ccd63a9fe2a61f167ccd7bd80d260850d571dbd5ed75e70",
-  "notes": "v1.23 酷9 生成快一倍（在线线路同时读 8 条，实测 14 秒 → 6 秒）。\n检查更新同时查 5 个地址，新版本提示更及时；选大 APK 时界面不卡。\n「粘贴」只自动填像线路的剪贴板内容；修了恢复上次选择时状态栏冒出无关文字。",
+  "versionCode": 34,
+  "versionName": "1.24",
+  "size": 2187925,
+  "sha256": "0c47e0838eb26ad9515063b7f2d53d22225865dbb23efee4e98519b71ea09487",
+  "notes": "v1.24 修复「内置目录」被悄悄改成手机路径（选压缩包后重开工具时，线路会被内置到奇怪的目录）。\nOK影视壳生成快一倍（在线检测 8 条同时读 + 补丁结果复用，实测 75 秒 → 33 秒）；中文域名插件也能检测。\n选完文件马上记住；合并线路包不会覆盖正在读的包。",
   "urls": [
-    "https://cdn.jsdelivr.net/gh/yoru-kan/mom-tv-app@2528448612a93d6184b16e4d6c97082656a34299/tvinject/tvinject_v1.23.apk",
-    "https://fastly.jsdelivr.net/gh/yoru-kan/mom-tv-app@2528448612a93d6184b16e4d6c97082656a34299/tvinject/tvinject_v1.23.apk",
-    "https://raw.githubusercontent.com/yoru-kan/mom-tv-app/2528448612a93d6184b16e4d6c97082656a34299/tvinject/tvinject_v1.23.apk",
-    "https://gcore.jsdelivr.net/gh/yoru-kan/mom-tv-app@2528448612a93d6184b16e4d6c97082656a34299/tvinject/tvinject_v1.23.apk"
+    "https://cdn.jsdelivr.net/gh/yoru-kan/mom-tv-app@32be0b3a155d67a648a28705dada9ae74aa653f2/tvinject/tvinject_v1.24.apk",
+    "https://fastly.jsdelivr.net/gh/yoru-kan/mom-tv-app@32be0b3a155d67a648a28705dada9ae74aa653f2/tvinject/tvinject_v1.24.apk",
+    "https://raw.githubusercontent.com/yoru-kan/mom-tv-app/32be0b3a155d67a648a28705dada9ae74aa653f2/tvinject/tvinject_v1.24.apk",
+    "https://gcore.jsdelivr.net/gh/yoru-kan/mom-tv-app@32be0b3a155d67a648a28705dada9ae74aa653f2/tvinject/tvinject_v1.24.apk"
   ]
 }

@@ -1,0 +1,15 @@
+{
+  "app": "电视壳内置工具",
+  "package": "com.tvinject.maker",
+  "versionCode": 28,
+  "versionName": "1.18",
+  "size": 2179733,
+  "sha256": "c3c1eca8d2478b8e5db02b670df0374387ca8feba47346436cf9f8104075e748",
+  "notes": "v1.18 新增「检查更新」：打开工具自动检查新版本，有新版本弹窗下载安装。\nv1.17 修复改了名称的酷9 打开就闪退；改名后酷9 用新的 /sdcard/新名称/ 文件夹。",
+  "urls": [
+    "https://cdn.jsdelivr.net/gh/yoru-kan/mom-tv-app@d8922adb5297e6fe978fd25af5511f6767523180/tvinject/tvinject_v1.18.apk",
+    "https://fastly.jsdelivr.net/gh/yoru-kan/mom-tv-app@d8922adb5297e6fe978fd25af5511f6767523180/tvinject/tvinject_v1.18.apk",
+    "https://raw.githubusercontent.com/yoru-kan/mom-tv-app/d8922adb5297e6fe978fd25af5511f6767523180/tvinject/tvinject_v1.18.apk",
+    "https://gcore.jsdelivr.net/gh/yoru-kan/mom-tv-app@d8922adb5297e6fe978fd25af5511f6767523180/tvinject/tvinject_v1.18.apk"
+  ]
+}

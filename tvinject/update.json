@@ -1,15 +1,15 @@
 {
   "app": "电视壳内置工具",
   "package": "com.tvinject.maker",
-  "versionCode": 28,
-  "versionName": "1.18",
+  "versionCode": 29,
+  "versionName": "1.19",
   "size": 2179733,
-  "sha256": "c3c1eca8d2478b8e5db02b670df0374387ca8feba47346436cf9f8104075e748",
-  "notes": "v1.18 新增「检查更新」：打开工具自动检查新版本，有新版本弹窗下载安装。\nv1.17 修复改了名称的酷9 打开就闪退；改名后酷9 用新的 /sdcard/新名称/ 文件夹。",
+  "sha256": "85ccb63c411657f5a46fbcc89382bce3e58b307b325a06a442cf028280fdb6a5",
+  "notes": "v1.19 下载新版本显示进度，某个地址太慢自动换下一个。\nv1.18 新增「检查更新」：打开工具自动检查新版本，有新版本弹窗下载安装。\nv1.17 修复改了名称的酷9 打开就闪退。",
   "urls": [
-    "https://cdn.jsdelivr.net/gh/yoru-kan/mom-tv-app@d8922adb5297e6fe978fd25af5511f6767523180/tvinject/tvinject_v1.18.apk",
-    "https://fastly.jsdelivr.net/gh/yoru-kan/mom-tv-app@d8922adb5297e6fe978fd25af5511f6767523180/tvinject/tvinject_v1.18.apk",
-    "https://raw.githubusercontent.com/yoru-kan/mom-tv-app/d8922adb5297e6fe978fd25af5511f6767523180/tvinject/tvinject_v1.18.apk",
-    "https://gcore.jsdelivr.net/gh/yoru-kan/mom-tv-app@d8922adb5297e6fe978fd25af5511f6767523180/tvinject/tvinject_v1.18.apk"
+    "https://cdn.jsdelivr.net/gh/yoru-kan/mom-tv-app@01c553cb26433410f1e4e0e7db6bacb89ca72f2e/tvinject/tvinject_v1.19.apk",
+    "https://fastly.jsdelivr.net/gh/yoru-kan/mom-tv-app@01c553cb26433410f1e4e0e7db6bacb89ca72f2e/tvinject/tvinject_v1.19.apk",
+    "https://raw.githubusercontent.com/yoru-kan/mom-tv-app/01c553cb26433410f1e4e0e7db6bacb89ca72f2e/tvinject/tvinject_v1.19.apk",
+    "https://gcore.jsdelivr.net/gh/yoru-kan/mom-tv-app@01c553cb26433410f1e4e0e7db6bacb89ca72f2e/tvinject/tvinject_v1.19.apk"
   ]
 }

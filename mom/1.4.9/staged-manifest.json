@@ -1,0 +1,97 @@
+{
+  "name": "1.4.9",
+  "code": 10409,
+  "size": 69249888,
+  "sha256": "c9d718d76360ee32ff47e89b9c02f3d296e6d9ca62cdcad033d0a9f92977bb55",
+  "commit": "4f941ea11132e4af7fd0413b31dcc0bd92104abd",
+  "parts": [
+    {
+      "name": "1.4.9/part00.bin",
+      "size": 4194304,
+      "sha256": "78e330623dc8b27630002723316ffdeea684129670d06f61be303ecb6838c551"
+    },
+    {
+      "name": "1.4.9/part01.bin",
+      "size": 4194304,
+      "sha256": "5e23be8c87462d5f64053b5bfa2a062c26cc66f0730d470786b17bddfac9a261"
+    },
+    {
+      "name": "1.4.9/part02.bin",
+      "size": 4194304,
+      "sha256": "e4680bd562265ce984c13ba8e53dd14b0c2d04f947a4514c607bde7484f1345c"
+    },
+    {
+      "name": "1.4.9/part03.bin",
+      "size": 4194304,
+      "sha256": "93f3c62a677cbf35dc37c4fbe2cbcf09589dcb29f2ab429d2a72086760a7d903"
+    },
+    {
+      "name": "1.4.9/part04.bin",
+      "size": 4194304,
+      "sha256": "c3dc261a6b13fa8ebeadc8c8339cb03a77811c08f0a9ada6e58d347b3a3879b3"
+    },
+    {
+      "name": "1.4.9/part05.bin",
+      "size": 4194304,
+      "sha256": "7978fc2aa806da649b2531b962a0672d83b782da9871e3ed99e2b5b8b5cc52db"
+    },
+    {
+      "name": "1.4.9/part06.bin",
+      "size": 4194304,
+      "sha256": "a55ab1827be2b906f02f3a90c673b564dee3e11568fd8d69c48bcf07d6db0c65"
+    },
+    {
+      "name": "1.4.9/part07.bin",
+      "size": 4194304,
+      "sha256": "a3c799ea7a0cb0bd60d888610288be3afc117847aa74d1301070d5eb38e20bf6"
+    },
+    {
+      "name": "1.4.9/part08.bin",
+      "size": 4194304,
+      "sha256": "d6877b70e1db0559b294ae26b3352d3c28b9d4638c5936748667c9f53579b552"
+    },
+    {
+      "name": "1.4.9/part09.bin",
+      "size": 4194304,
+      "sha256": "eea9162d12679ab8a14e5a0a2d97ed9b844a0772fb137b639c6407dd9fc44f6a"
+    },
+    {
+      "name": "1.4.9/part10.bin",
+      "size": 4194304,
+      "sha256": "dceef29ebd3b9e540cc303b36d75214025299d8f15dd16a1b3c1376b408a867c"
+    },
+    {
+      "name": "1.4.9/part11.bin",
+      "size": 4194304,
+      "sha256": "6699f776dae9357c19302db2b86be9a77bd7be2e78627b7bffd13f928f32a983"
+    },
+    {
+      "name": "1.4.9/part12.bin",
+      "size": 4194304,
+      "sha256": "e3f386a43171643ee12e6244c62d84ef196ef6bf7c17383e621a31977f2366f3"
+    },
+    {
+      "name": "1.4.9/part13.bin",
+      "size": 4194304,
+      "sha256": "f94040d30cb3eb699f1057b5dcc165ffbbeb22081141a50d55c64eaf343b176b"
+    },
+    {
+      "name": "1.4.9/part14.bin",
+      "size": 4194304,
+      "sha256": "0e2f0c188102aca99e020370318bdd7b9e38ed5c4629a03455b91eabf42f8d2b"
+    },
+    {
+      "name": "1.4.9/part15.bin",
+      "size": 4194304,
+      "sha256": "b5740ccdc33bea9694b993cef41dc5e79c3544e3a9086a78b85360ef97792961"
+    },
+    {
+      "name": "1.4.9/part16.bin",
+      "size": 2141024,
+      "sha256": "dd1541d69ff5413402dfa6757cd4e1cded3f8a4ed957ba1679efbdefa42350e6"
+    }
+  ],
+  "desc": "老妈专用TV 1.4.9：后台安静检查、续传和设置页手动安装。",
+  "_status": "STAGED_ONLY_NOT_PUBLIC_OTA",
+  "_public_ota_still": "1.4.8 / 10408"
+}

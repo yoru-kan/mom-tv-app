@@ -1,15 +1,15 @@
 {
   "app": "电视壳内置工具",
   "package": "com.tvinject.maker",
-  "versionCode": 30,
-  "versionName": "1.20",
+  "versionCode": 31,
+  "versionName": "1.21",
   "size": 2179733,
-  "sha256": "837d24cc316b4b9f087e47102c3d3a20e811f0b7deeebe068134b7df41150acf",
-  "notes": "v1.20 线路页导入只剩「导入文件」「粘贴」两个按钮（APK / 压缩包 / txt 自动识别）；「内置进 APK」后焦点直接停在「生成 APK」。\n酷9 生成更快（跳过不需要的插件检测），要先卸载旧酷9 时卸载完自动接着安装。\n线路页上移/改名/移除后焦点不乱跳，修了几个小毛病。",
+  "sha256": "b7d5a64113a160dddc45b8cd3634e450ea6a210d46b8d2f9c92ee2b0dbaef2bd",
+  "notes": "v1.21 酷9 只内置直播会用到的文件，APK 更小；GBK 编码的直播列表自动转码，频道名不再乱码。\n同一个酷9 反复内置不再越叠越多（旧目录、上次的直播源都会换成这次的）。\n启动时自动选最新放进去的 APK，几处提示文字更清楚。",
   "urls": [
-    "https://cdn.jsdelivr.net/gh/yoru-kan/mom-tv-app@43dab262a22dd5083ade39e7f017ce235e987cb4/tvinject/tvinject_v1.20.apk",
-    "https://fastly.jsdelivr.net/gh/yoru-kan/mom-tv-app@43dab262a22dd5083ade39e7f017ce235e987cb4/tvinject/tvinject_v1.20.apk",
-    "https://raw.githubusercontent.com/yoru-kan/mom-tv-app/43dab262a22dd5083ade39e7f017ce235e987cb4/tvinject/tvinject_v1.20.apk",
-    "https://gcore.jsdelivr.net/gh/yoru-kan/mom-tv-app@43dab262a22dd5083ade39e7f017ce235e987cb4/tvinject/tvinject_v1.20.apk"
+    "https://cdn.jsdelivr.net/gh/yoru-kan/mom-tv-app@e8c5ddd268613c152ef2a8bbae4cfa3524b30a63/tvinject/tvinject_v1.21.apk",
+    "https://fastly.jsdelivr.net/gh/yoru-kan/mom-tv-app@e8c5ddd268613c152ef2a8bbae4cfa3524b30a63/tvinject/tvinject_v1.21.apk",
+    "https://raw.githubusercontent.com/yoru-kan/mom-tv-app/e8c5ddd268613c152ef2a8bbae4cfa3524b30a63/tvinject/tvinject_v1.21.apk",
+    "https://gcore.jsdelivr.net/gh/yoru-kan/mom-tv-app@e8c5ddd268613c152ef2a8bbae4cfa3524b30a63/tvinject/tvinject_v1.21.apk"
   ]
 }
